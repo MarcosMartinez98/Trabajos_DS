@@ -1,0 +1,26 @@
+Corrección del examen tipo test:
+
+| Nº | Pregunta                                                   | Tu respuesta | Correcta | Resultado |
+|----|-------------------------------------------------------------|--------------|----------|-----------|
+| 1  | ¿Qué otros lenguajes se pueden leer en Markdown?           | a)           | d)       | ❌        |
+| 2  | ¿Cómo se define una variable en Python?                    | a)           | a)       | ✅        |
+| 3  | ¿Cuál expresión sería INCORRECTA?                          | c)           | c)       | ✅        |
+| 4  | ¿Qué operador concatena cadenas en Python?                | a)           | a)       | ✅        |
+| 5  | Valor de not (5 == 5 or 3 > 10)?                           | a)           | a)       | ✅        |
+| 6  | Tipo de variable NO existente en Python                   | d)           | d)       | ✅        |
+| 7  | Método para convertir a minúsculas                        | b)           | b)       | ✅        |
+| 8  | Sintaxis para crear un set vacío                          | a)           | a)       | ✅        |
+| 9  | Colección inmutable                                        | b)           | b)       | ✅        |
+| 10 | Bucle que repite cierto nº veces                          | b)           | b)       | ✅        |
+| 11 | ¿Cómo se importa un módulo en Python?                     | b)           | d)       | ❌        |
+| 12 | ¿Qué es una variable global?                              | b)           | b)       | ✅        |
+| 13 | ¿Cómo se instala una librería en Python?                  | a)           | a)       | ✅        |
+| 14 | Función para obtener longitud de cadena                   | a)           | a)       | ✅        |
+| 15 | Método para inicializar clase                             | c)           | c)       | ✅        |
+| 16 | Resultado de 15 % 4                                       | b)           | b)       | ✅        |
+| 17 | Acceso a datos['nombre']                                  | b)           | b)       | ✅        |
+| 18 | Palabra para detener bucle                                | c)           | c)       | ✅        |
+| 19 | Importar sqrt de math                                     |              | a)       | ❌        |
+| 20 | Resultado de 10 // 3                                      | b)           | b)       | ✅        |
+
+Nota final: 17/20 = 8,5/10
